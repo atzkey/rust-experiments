@@ -1,0 +1,10 @@
+[package]
+
+name = "bitflags"
+version = "0.0.1"
+authors = ["Denis Bakunovitch <bakunovitch@gmail.com>"]
+
+
+[dependencies]
+
+bitflags = "0.1"
